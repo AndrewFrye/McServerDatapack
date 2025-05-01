@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "bbb",
+    "bsb",
+    "bbb"
+  ],
+  "key": {
+    "b": [
+      "minecraft:iron_bars"
+    ],
+    "s": [
+      "minecraft:nether_star"
+    ]
+  },
+  "result": {
+    "id": "minecraft:spawner",
+    "components": {},
+    "count": 1
+  },
+  "show_notification": true
+}

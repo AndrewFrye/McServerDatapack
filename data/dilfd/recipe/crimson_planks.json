@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "s",
+    "s"
+  ],
+  "key": {
+    "s": [
+      "minecraft:crimson_slab"
+    ]
+  },
+  "result": {
+    "id": "minecraft:crimson_planks",
+    "count": 1
+  },
+  "show_notification": true
+}
