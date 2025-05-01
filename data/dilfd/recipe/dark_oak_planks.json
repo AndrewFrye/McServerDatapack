@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "pattern": [
-    "s",
-    "s"
+    "k",
+    "k"
   ],
   "key": {
-    "s": [
+    "k": [
       "minecraft:dark_oak_slab"
     ]
   },
